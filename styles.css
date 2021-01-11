@@ -1,0 +1,182 @@
+img {
+    height: 200px;
+}
+
+.small-height {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.h3 {
+    text-align: center;
+    width: 20px;
+    height: 10px;
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.s-height {
+    width: 200px;
+    height: 100px;
+}
+
+.h-height {
+    width: 200px;
+    height: 400px;
+}
+
+.photos {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.buzz {
+    display: flex;
+}
+
+.photos {
+    display: flex;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.quotes {
+    display: flex;
+}
+
+.tags {
+    display: flex;
+}
+
+.black-frame {
+    border: 10px ridge black;
+    padding: 5px;
+}
+
+p {
+    font-family: 'Nixie One', cursive;
+}
+
+.insta {
+    border: outset 10px #daf7f2;
+}
+
+.follow {
+    width: 400px;
+    height: 150px;
+}
+
+.item {
+    margin: 10px;
+    padding: 8px;
+    border: 1px black solid;
+    text-align: center;
+}
+
+.purple {
+    background-color: #936c6c;
+}
+
+.blue {
+    background-color: #936c6c;
+
+}
+
+.item {
+    width: 20px;
+    height: 10px;
+    text-align: center;
+}
+
+.small-widsdth {
+    width: 80%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,
+            0, 0, 0.2), 0 6px 20px 0 rgba(0,
+            0, 0, 0.19);
+}
+
+.photos {
+    width: 49px;
+    height: 20px;
+    text-align: center;
+    border: 1px black solid;
+    display: flex;
+    justify-content: center;
+}
+
+.pink {
+    background-color: #936c6c;
+    display: flex;
+    justify-content: center;
+}
+
+.TagPics {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    border: 1px black solid;
+    display: flex;
+    justify-content: center;
+}
+
+u {
+    text-decoration: underline;
+}
+
+.quoutes {
+    border: 10px dashed #ffe6e6;
+    display: flex;
+    justify-content: center;
+}
+
+.no {
+    display: flex;
+    justify-content: center;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+}
+
+.quotes {
+    display: flex;
+    justify-content: center;
+}
+
+.tag {
+    display: flex;
+    justify-content: center;
+}
+.pic3 {
+   display:block;
+    width:33.33%;
+    padding:5px;
+    justify-content: center;
+}
+    
